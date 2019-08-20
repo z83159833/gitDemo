@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gitDemo"
+  id="myeclipse.1566277356404"
+  context-root="/gitDemo"
+  j2ee-spec="5.0"
+  archive="gitDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
